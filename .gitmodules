@@ -1,0 +1,3 @@
+[submodule "Libft"]
+	path = Libft
+	url = git@gitlab.com:42-malaga/cursus/rango-00/libft.git
