@@ -10,6 +10,7 @@ cmake-build-*/
 *.iws
 
 
+
 ### Visual Studio Code ###
 .vscode/
 
@@ -22,7 +23,9 @@ cmake-build-*/
 *.vsix
 
 
+
 ### Mac OS ###
+
 # General
 .DS_Store
 .AppleDouble
@@ -32,7 +35,9 @@ cmake-build-*/
 *.icloud
 
 
+
 ### C ###
+
 # Prerequisites
 *.d
 
