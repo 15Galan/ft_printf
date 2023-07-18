@@ -112,3 +112,14 @@ Tienes que implementar las siguientes conversiones:
     <td>Imprime el símbolo del porcentaje (es decir, <code>%</code>).</td>
   </tr>
 </table>
+
+# Parte bonus
+
+No es necesario hacer todos los bonus.
+
+- Gestiona cualquier combinación de los siguientes flags: `-0.` y el ancho mínimo (*field minimum width*) bajo todas las conversiones posibles.
+- Gestiona todos los siguientes flags: `#`, ` ` y ` +` (uno de ellos es un espacio).
+
+> **Note**  
+> Piensa en la implementación de las características extras desde el principio.
+> De esta forma, evitarás los peligros de un enfoque ingenuo.
