@@ -25,6 +25,10 @@ Aprenderás, principalmente, a utilizar un número variable de argumentos.
 
 ---
 
+> **Warning**  
+> Este proyecto ha sido implementado directamente sobre el proyecto Libft (submódulo).  
+> Aquí, se está usando directamente la librería `libft.a` para compilar el proyecto.
+
 # Parte obligatoria
 
 <table>
@@ -121,5 +125,5 @@ No es necesario hacer todos los bonus.
 - Gestiona todos los siguientes flags: `#`, ` ` y ` +` (uno de ellos es un espacio).
 
 > **Note**  
-> Piensa en la implementación de las características extras desde el principio.
+> Piensa en la implementación de las características extras desde el principio.  
 > De esta forma, evitarás los peligros de un enfoque ingenuo.
